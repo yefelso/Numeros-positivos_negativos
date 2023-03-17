@@ -29,7 +29,8 @@ public class NumeroPositivo_negativo {
         if(numero<0) {
             System.out.println("Hola"+ nombre);
             System.out.println("El numero que ingreso es un numero negativo");
-}       else if(numero == 0) {
+}       
+        else if(numero == 0) {
             System.out.println("Hola"+ nombre);
             System.out.println("El numero que ingreso es un numero neutro");
 }       
