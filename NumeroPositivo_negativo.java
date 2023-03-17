@@ -27,14 +27,17 @@ public class NumeroPositivo_negativo {
         int numero = sc.nextInt();
         
         if(numero<0) {
+            
             System.out.println("Hola"+ nombre);
             System.out.println("El numero que ingreso es un numero negativo");
 }       
         else if(numero == 0) {
+            
             System.out.println("Hola"+ nombre);
             System.out.println("El numero que ingreso es un numero neutro");
 }       
         else{
+           
             System.out.println("Hola"+ nombre);
             System.out.println("El numero que ingreso es un numero positivo");
 }
